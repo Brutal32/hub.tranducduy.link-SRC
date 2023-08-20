@@ -1,2 +1,5 @@
-# hub.tranducduy.link-SRC
-Skidded Stresser Source Code
+# Skidded Stresser Source Code
+
+Cry about it kiddo
+
+Discord Server: https://discord.gg/QZpNbMs2na
